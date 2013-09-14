@@ -1,0 +1,2 @@
+module JoinmeHelper
+end

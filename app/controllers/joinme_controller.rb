@@ -1,0 +1,2 @@
+class JoinmeController < ApplicationController
+end
